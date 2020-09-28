@@ -2,7 +2,7 @@
 
 Script to monitor files of any extension in a directory, and can also check the creation date.
 
-# Pashes
+# Requirements
 
 - Check if PHP is installed on the server;
 
