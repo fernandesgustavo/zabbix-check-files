@@ -1,4 +1,4 @@
-# Monitor files in the directory
+# Monitor files in the directory with Zabbix
 
 Script to monitor files of any extension in a directory, and can also check the creation date.
 
