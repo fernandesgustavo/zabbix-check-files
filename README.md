@@ -8,7 +8,7 @@ Script to monitor files of any extension in a directory, and can also check the 
 
 - Add the keys to your Zabbix "UserParameter" file;
 
-    UserParameter=file.status[*],php c:\zabbix\scripts\file-check.php $1 $2 $3
+    UserParameter=file.status[*],php c:\zabbix\scripts\file-status.php $1 $2 $3
 
     UserParameter=file.history[*],php c:\zabbix\scripts\file-history.php $1 $2 $3
 
